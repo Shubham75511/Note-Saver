@@ -10,8 +10,8 @@ function createItem(noteItem){
     title = {noteItem.title}
     content = {noteItem.content}
      />
-)
-};
+);
+}
 
 function App() {
   return (
